@@ -78,7 +78,7 @@ image[height//2:, :width//2]=smaller_frame
 image[:height//2, width//2:]=smaller_frame
 image[height//2:, width//2:]=smaller_frame
 
-cv2.imshow('212222240110_Thiyagarajan',image)
+cv2.imshow('2122222400054_LOKESH KUMAR P',image)
 
 cv2.waitKey(5000)  
 
@@ -106,7 +106,7 @@ image[height//2:, :width//2]=smaller_frame
 image[:height//2, width//2:]=cv2.rotate(smaller_frame,cv2.ROTATE_180)
 image[height//2:, width//2:]=smaller_frame
 
-cv2.imshow('212222240110',image)
+cv2.imshow('2122222400054',image)
 
 cv2.waitKey(5000) 
 
